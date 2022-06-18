@@ -1,0 +1,10 @@
+|=======================================================================|
+|                        Penyewaan Villa Quella                         |
+|=======================================================================|
+|   Kode Villa   |      Nama Villa     |       Alamat                   |                                         
+|      A01       |    Villa Shopia     | Komplek A No.10 Puncak, Bogor  |
+|      A02       |    Villa Cendana    | Komplek B No.11 Puncak, Bogor  |
+|      A03       |    Villa Nugraha    | Komplek C No.14 Puncak, Bogor  |
+|      A04       |    Villa Citra      | Komplek D No.12 Puncak, Bogor  |
+|      A05       |    Villa Darus      | Komplek E No.09 Puncak, Bogor  |
+|=======================================================================|
